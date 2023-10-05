@@ -7,7 +7,7 @@ kaggle : Time Serise Forecasting For Store Sales
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c99cc873-0bda-48f9-b5d6-ea66107259f0/48a34533-145d-4359-adbe-094e242fb25f/Untitled.png)
 
-![매년 거래량이 비슷한 추이를 보임(2017년은 아직 8월까지밖에 집계되지않음)](https://prod-files-secure.s3.us-west-2.amazonaws.com/c99cc873-0bda-48f9-b5d6-ea66107259f0/e7dd3d4d-574a-4bd0-8b7c-b022d8a261e7/transaction3.png)
+(https://prod-files-secure.s3.us-west-2.amazonaws.com/c99cc873-0bda-48f9-b5d6-ea66107259f0/e7dd3d4d-574a-4bd0-8b7c-b022d8a261e7/transaction3.png)
 
 매년 거래량이 비슷한 추이를 보임(2017년은 아직 8월까지밖에 집계되지않음)
 
